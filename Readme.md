@@ -1,6 +1,6 @@
 ## Networking Basics #0
 
-Description
+# Description
 
 This project is designed to introduce and solidify foundational knowledge of networking concepts. By the end of this project, you will be able to explain essential networking topics clearly and confidently.
 
@@ -28,7 +28,7 @@ Typical usage
 
 Typical geographical size
 
-Internet
+# Internet
 
 What it is
 
@@ -40,7 +40,7 @@ The two types of IP addresses (private and public)
 
 The difference between IPv4 and IPv6
 
-Localhost
+# Localhost
 
 What it is and how it works
 
@@ -50,13 +50,13 @@ Definition and purpose
 
 Why IPv6 Was Created
 
-TCP/UDP
+# TCP/UDP
 
 The two main data transfer protocols for IP
 
 Key differences between TCP and UDP
 
-Ports
+# Ports
 
 What they are and their purpose
 
@@ -72,7 +72,7 @@ Tools/Protocols
 
 What tool or protocol is often used to check if a device is connected to a network
 
-Requirements
+# Requirements
 
 Allowed editors: vi, vim, emacs
 
@@ -92,7 +92,7 @@ Include a comment in the second line explaining what the script does
 
 A README.md file at the root of the project is mandatory
 
-Resources
+# Resources
 
 Read or watch:
 
@@ -130,7 +130,7 @@ netstat: Displays network connections, routing tables, and interface statistics.
 
 ping: Tests connectivity and measures latency to another host.
 
-Example Answer File Format
+# Example Answer File Format
 
 For multiple-choice question tasks, provide answers as follows:
 
