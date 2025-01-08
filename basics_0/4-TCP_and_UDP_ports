@@ -1,7 +1,5 @@
-#!/bin/bash
-
+#!/bin/env bash
 # Vérifie si netstat ou ss est installé
-if command -v netstat > /dev/null; then
     echo "Utilisation de netstat pour afficher les sockets en écoute..."
     sudo netstat -tunlp | awk '
     BEGIN {
